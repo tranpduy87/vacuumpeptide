@@ -1,0 +1,16 @@
+-O -rem 0 -i equilibrate.mdin.001 -o equilibrate.mdout.001 -c min001.rst -r equilibrate.rst.001 -x equilibrate.mdcrd.001 -inf equilibrate.mdinfo.001 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.002 -o equilibrate.mdout.002 -c min002.rst -r equilibrate.rst.002 -x equilibrate.mdcrd.002 -inf equilibrate.mdinfo.002 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.003 -o equilibrate.mdout.003 -c min003.rst -r equilibrate.rst.003 -x equilibrate.mdcrd.003 -inf equilibrate.mdinfo.003 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.004 -o equilibrate.mdout.004 -c min004.rst -r equilibrate.rst.004 -x equilibrate.mdcrd.004 -inf equilibrate.mdinfo.004 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.005 -o equilibrate.mdout.005 -c min005.rst -r equilibrate.rst.005 -x equilibrate.mdcrd.005 -inf equilibrate.mdinfo.005 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.006 -o equilibrate.mdout.006 -c min006.rst -r equilibrate.rst.006 -x equilibrate.mdcrd.006 -inf equilibrate.mdinfo.006 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.007 -o equilibrate.mdout.007 -c min007.rst -r equilibrate.rst.007 -x equilibrate.mdcrd.007 -inf equilibrate.mdinfo.007 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.008 -o equilibrate.mdout.008 -c min008.rst -r equilibrate.rst.008 -x equilibrate.mdcrd.008 -inf equilibrate.mdinfo.008 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.001 -o equilibrate.mdout.001 -c min001.rst -r equilibrate.rst.001 -x equilibrate.mdcrd.001 -inf equilibrate.mdinfo.001 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.002 -o equilibrate.mdout.002 -c min002.rst -r equilibrate.rst.002 -x equilibrate.mdcrd.002 -inf equilibrate.mdinfo.002 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.003 -o equilibrate.mdout.003 -c min003.rst -r equilibrate.rst.003 -x equilibrate.mdcrd.003 -inf equilibrate.mdinfo.003 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.004 -o equilibrate.mdout.004 -c min004.rst -r equilibrate.rst.004 -x equilibrate.mdcrd.004 -inf equilibrate.mdinfo.004 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.005 -o equilibrate.mdout.005 -c min005.rst -r equilibrate.rst.005 -x equilibrate.mdcrd.005 -inf equilibrate.mdinfo.005 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.006 -o equilibrate.mdout.006 -c min006.rst -r equilibrate.rst.006 -x equilibrate.mdcrd.006 -inf equilibrate.mdinfo.006 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.007 -o equilibrate.mdout.007 -c min007.rst -r equilibrate.rst.007 -x equilibrate.mdcrd.007 -inf equilibrate.mdinfo.007 -p oxyd.prmtop
+-O -rem 0 -i equilibrate.mdin.008 -o equilibrate.mdout.008 -c min008.rst -r equilibrate.rst.008 -x equilibrate.mdcrd.008 -inf equilibrate.mdinfo.008 -p oxyd.prmtop
